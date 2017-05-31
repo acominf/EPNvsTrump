@@ -9,30 +9,31 @@ El objetivo del juego es Derrotar a Donald Trump para evitar que nos envie indoc
 El juego comienza en el Desierto de Sonora justo en la frontera entre México y Estados Unidos(1er nivel) y tú(Enrique Peña Nieto) tienes que vencer a la Patrulla Fronteriza o como se le dice en México "La Migra", una vez cruzada la frontera tendrás que derrotar a los agentes de Donald Trump, esto en el segundo nivel, y por último te enfrentarás a Donald Trump a quién tendrás que derrotar para que no siga enviando indocumentados.
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica3
+1. Desierto
+* Escenarios
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
+2. Peña
+* Jugador
+* Movimiento
 
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
 
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3. Migra
+* Enemigo del nivle 1
+
+
+4. Agentes
+* Enemigo del nivel 2
+
+
+5. Trump
+* Enemigo final
+
+6. Shot
+* Disparo de Peña(copete)
+
+7. ShotT
+* Disparo de Trump(indocumentados)
 
 ### Diagrama de clases
 ![Diagrama de clases](url-del-diagrama.png)
