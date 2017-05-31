@@ -3,10 +3,10 @@
 ![Portada](https://github.com/acominf/EPNvsTrump/blob/master/images/Portada.png)
 
 ### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+El objetivo del juego es Derrotar a Donald Trump para evitar que nos envie indocumentados y así evitar una crisis poblacional en México.
 
 ### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
+El juego comienza en el Desierto de Sonora justo en la frontera entre México y Estados Unidos(1er nivel) y tú(Enrique Peña Nieto) tienes que vencer a la Patrulla Fronteriza o como se le dice en México "La Migra", una vez cruzada la frontera tendrás que derrotar a los agentes de Donald Trump, esto en el segundo nivel, y por último te enfrentarás a Donald Trump a quién tendrás que derrotar para que no siga enviando indocumentados.
 
 ### Clases principales y sus características
 1. Clase 1
@@ -37,10 +37,10 @@ La descripción del juego/aplicación es ...
 ### Diagrama de clases
 ![Diagrama de clases](url-del-diagrama.png)
 
-### Autor(es)
-El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+### Autor
+El autor del proyecto es:
+- Luis David Rendón Vázquez (@ldrendonv97)
+
 
 ### Materia(s)
 - Programación Orientada a Objetos
