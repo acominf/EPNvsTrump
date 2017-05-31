@@ -3,7 +3,7 @@
 ![Portada](https://github.com/acominf/EPNvsTrump/blob/master/images/Portada.png)
 
 ### Objetivo del juego/aplicación
-El objetivo del juego es Derrotar a Donald Trump para evitar que nos envie indocumentados y así evitar una crisis poblacional en México.
+El objetivo del juego es Derrotar a Donald Trump para evitar que nos envie indocumentados y así evitar una crisis poblacional en México y para que no nos obligue a construir el muro.
 
 ### Descripción del juego/aplicación
 El juego comienza en el Desierto de Sonora justo en la frontera entre México y Estados Unidos(1er nivel) y tú(Enrique Peña Nieto) tienes que vencer a la Patrulla Fronteriza o como se le dice en México "La Migra", una vez cruzada la frontera tendrás que derrotar a los agentes de Donald Trump, esto en el segundo nivel, y por último te enfrentarás a Donald Trump a quién tendrás que derrotar para que no siga enviando indocumentados.
